@@ -1,6 +1,6 @@
 # Lending dApp on the Core Network
 
-## Pre-requisites
+## Pre-requisitess
 Following are the pre-requisites tools that you'll need: 
 - [Node.js](https://nodejs.org/) 
 - [Visual Studio Code (VSCode)](https://visualstudio.microsoft.com/) 
